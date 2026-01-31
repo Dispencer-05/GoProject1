@@ -3,7 +3,7 @@ package account
 import (
 	"fmt"
 
-	"customer"
+	"github.com/Dispencer-05/GoProject1/tree/main/go/customer"
 )
 
 type Account interface {
